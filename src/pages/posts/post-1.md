@@ -1,8 +1,9 @@
 ---
-title: Mi primera publicación en el blog
+layout: ../../layouts/MarkdownPostLayout.astro
+title: Mi primera publicacion en el blog
 pubDate: 2025-10-06
 description: "Este es la primera publicación de mi nuevo blog Astro"
-author: Carlos Chablé
+author: Carlos Chable
 image:
     url: "https://docs.astro.build/assets/full-logo-light.png"
     alt: "El logotipo completo de Astro."
